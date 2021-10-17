@@ -5,14 +5,14 @@ The purpose of this project is to create a report that includes what cryptocurre
 
 ## Methods
 
-Using unsupervised machine learning techniques to analyze given dataset. Prepare data and visualize results.
+Prepare given dataset data. Analyze  data using unsupervised machine learning techniques and visualize results.
 
 ### Resourses
 
 The dataset  from CryptoCompare - [crypto_data.csv](https://github.com/xenia-e/18-Cryptocurrencies/blob/main/Resources/crypto_data.csv)
 
 ## Deliverables
-This project consists of four technical analysis deliverables:
+This project consists of four technical analysis deliverables included in [jupyter notebook file](https://github.com/xenia-e/18-Cryptocurrencies/blob/main/crypto_clustering.ipynb):
 
 __*Deliverable 1:*__ Preprocessing the Data for PCA
 
